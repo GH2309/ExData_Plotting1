@@ -1,3 +1,13 @@
+Exploratory Data Analysis- Course Project 1:
+File below is from:  
+https://class.coursera.org/exdata-031/human_grading/view/courses/975126/assessments/3/submissions
+
+My plots require use of file "gettingData.R", which uses local file "household_power_consumption.txt" (unzipped from file referenced below).  This then creates a dataset "myDB" which is used in the later plots.  
+
+myDB modifies the Date and Time columns, and creates a dateTime column which is used for plots 2,3,4.  
+
+----
+
 ## Introduction
 
 This assignment uses data from
